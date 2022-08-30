@@ -1,4 +1,4 @@
-# [NOMBRE DEL PROYECTO]
+# [Tarea#1 Mini PC]
 ### Nombre y carné de los integrantes: 
 Gilberth Montoya Zárate 2017239321
 Kevin Lanzas Quen 2019160391
